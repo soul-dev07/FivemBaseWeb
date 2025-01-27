@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FivemBaseWeb/static/css/main.e8b75941.css",
+    "main.js": "/FivemBaseWeb/static/js/main.7ed2c8ea.js",
+    "static/media/textlogo.png": "/FivemBaseWeb/static/media/textlogo.975d9b9ca11bd593a6ed.png",
+    "static/media/logo.png": "/FivemBaseWeb/static/media/logo.9fc86ef48662f4368c6e.png",
+    "static/media/bg.png": "/FivemBaseWeb/static/media/bg.5bbd9ef1a0d1306daede.png",
+    "static/media/instagram.png": "/FivemBaseWeb/static/media/instagram.2c28393daeead3cdf982.png",
+    "static/media/discord.png": "/FivemBaseWeb/static/media/discord.183921a8067678d5b34b.png",
+    "static/media/papyrus-dark.png": "/FivemBaseWeb/static/media/papyrus-dark.ca2776f3a677c6e338c9.png",
+    "index.html": "/FivemBaseWeb/index.html",
+    "main.e8b75941.css.map": "/FivemBaseWeb/static/css/main.e8b75941.css.map",
+    "main.7ed2c8ea.js.map": "/FivemBaseWeb/static/js/main.7ed2c8ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8b75941.css",
+    "static/js/main.7ed2c8ea.js"
+  ]
+}
